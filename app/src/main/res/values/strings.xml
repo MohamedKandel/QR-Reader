@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">QReader</string>
+    <string name="qreader">QReader</string>
+    <string name="banner_ad_unit">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="textview">TextView</string>
+    <string name="here_is_your_qr">Here is Your QR</string>
+    <string name="enter_text_for_qr">Enter text for QR</string>
+    <string name="download">download</string>
+    <string name="generate">Generate</string>
+    <string name="delete">delete</string>
+    <string name="this_app_is_designed_and_powered_by_galaxy_code_team">This app is designed and powered by : Galaxy Code Team</string>
+    <string name="galaxy_code">Galaxy Code</string>
+    <string name="todo">TODO</string>
+</resources>
